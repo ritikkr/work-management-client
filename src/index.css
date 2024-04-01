@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+body,html {
+  margin: 0;
+  padding: 0;
+  background: rgb(255, 255, 255);
+  color: #000000;
+}
+
+#navbar a.active{
+  background-color: rgb(28, 45, 45);
+}
+#sidebar a.active{
+  background-color: rgb(105, 58, 1);
+}
+a{
+  color: #060404
+}
